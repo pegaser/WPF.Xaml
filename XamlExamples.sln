@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NamedElements", "NamedEleme
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttachedProperties", "AttachedProperties\AttachedProperties.csproj", "{B5128814-0370-4FED-B207-D948EC52AFCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadingXamlFromCode", "LoadingXamlFromCode\LoadingXamlFromCode.csproj", "{558CF6CF-A516-4880-BAE4-F2436FB159E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoadingXamlFromCode", "LoadingXamlFromCode\LoadingXamlFromCode.csproj", "{558CF6CF-A516-4880-BAE4-F2436FB159E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice", "Practice\Practice.csproj", "{8ADD2A98-26E1-466C-A037-0C88B0A0056B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{EDDCC378-2B89-433E-8047-7FD02C41D0ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{558CF6CF-A516-4880-BAE4-F2436FB159E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{558CF6CF-A516-4880-BAE4-F2436FB159E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{558CF6CF-A516-4880-BAE4-F2436FB159E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ADD2A98-26E1-466C-A037-0C88B0A0056B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADD2A98-26E1-466C-A037-0C88B0A0056B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADD2A98-26E1-466C-A037-0C88B0A0056B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADD2A98-26E1-466C-A037-0C88B0A0056B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDCC378-2B89-433E-8047-7FD02C41D0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDCC378-2B89-433E-8047-7FD02C41D0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDCC378-2B89-433E-8047-7FD02C41D0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDCC378-2B89-433E-8047-7FD02C41D0ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
